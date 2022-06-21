@@ -1,0 +1,123 @@
+*, *:before, *:after {
+  marging: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.navbar {
+ font-size: 20px;
+ margin-top: 0px;
+ background: #6EDCD9;
+ padding-top: 20px;
+ height: 70px;
+ width: 100%;
+ padding-left: 250px;
+ 
+}
+.navbar a:hover {
+  background-color: #6EDCD9;
+  color: black;
+}
+.about {
+  padding-right: 150px;
+}
+.register {
+  padding-right: 150px;
+}
+.login {
+  padding-right: 150px;
+}
+.contact {
+  padding-right: 100px;
+}
+.rpbody { 
+  justify-content: center;
+}
+div {
+  border-style: solid;
+  border-width: thick;
+  border-color: #FF5D5D;
+  background-image: linear-gradient(#FF5D5D, #FFC3C3, #FF5D5D);
+  border-radius: 5px;
+  width: 35%;
+  height: 720px;
+  margin: auto;
+  padding: 25px 75px 25px 75px;
+  align-items: center;
+  
+}
+.fname {
+  margin-top: 2px;
+  padding-top: 10px;
+  font-family: sans-serif;
+  border-radius: 2px;
+}
+.lname {
+  margin-top: 2px;
+  padding-top: 10px;
+  font-family: serif;
+  border-radius: 2px;
+}
+.phone-number {
+  margin-top: 2px;
+  padding-top: 10px;
+  font-family: serif;
+  border-radius: 2px;
+}
+.gender {
+  margin-top: 2px;
+  padding-top: 10px;
+  font-family: serif;
+  border-radius: 3px;
+  color: #444941;
+  outline-style: solid;
+}
+.country {
+  margin-top: 2px;
+  padding-top: 10px;
+  font-family: serif;
+  border-radius: 2px;
+}
+.state {
+  margin-top: 2px;
+  padding-top: 10px;
+  font-family: serif;
+  border-radius: 2px;
+}
+.email {
+  margin-top: 2px;
+  padding-top: 10px;
+  font-family: serif;
+  border-radius: 2px;
+}
+.email {
+  margin-top: 2px;
+  padding-top: 10px;
+  font-family: serif;
+  border-radius: 2px;
+}
+.pswd {
+  margin-top: 2px;
+  padding-top: 10px;
+  font-family: serif;
+  border-radius: 2px;
+}
+.cpswd {
+  margin-top: 2px;
+  padding-top: 10px;
+  font-family: serif;
+  border-radius: 2px;
+}
+.submit {
+  border-radius: 5px;
+  font-size: 20.5px;
+  background: #00AF91;
+  border-color: white;
+  font-weight: bold;
+  weight: 30px;
+  height: 40px;
+  font-family: serif;
+  margin-bottom: 30px;
+  padding-right: 10px;
+ padding-left: 10px;
+  margin-left: 90px;
+}
